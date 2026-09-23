@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sudip Chowdhury 👋
 
-<!--
-**sudip001-a11y/sudip001-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-stack developer | Kolkata, India
 
-Here are some ideas to get you started:
+I build practical web apps and automation tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** React, JavaScript, Vite, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Data and tools:** Supabase, Redis, BullMQ
+
+## Projects
+
+- [Credit Reminder](https://github.com/Sudip-C/credit-reminder) — Track personal loans and prepare WhatsApp reminders.
+- [Digitora LeadAI](https://github.com/Sudip-C/digitora-leadai) — Lead discovery and outreach workflow.
